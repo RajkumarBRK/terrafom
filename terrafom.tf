@@ -13,6 +13,6 @@ name="terraform"
 }
 }
 resource "aws_s3_bucket" "def" {
-bucket="snapdealbrkr123"
+bucket="snapdealbrkr12345"
 acl="private"
 }
